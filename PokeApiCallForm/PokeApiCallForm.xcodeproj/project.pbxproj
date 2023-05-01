@@ -11,6 +11,7 @@
 		B352D1A329FFD78E00951323 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B352D1A229FFD78E00951323 /* ContentView.swift */; };
 		B352D1A529FFD78F00951323 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B352D1A429FFD78F00951323 /* Assets.xcassets */; };
 		B352D1A829FFD78F00951323 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B352D1A729FFD78F00951323 /* Preview Assets.xcassets */; };
+		B352D1B029FFD80F00951323 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B352D1AF29FFD80F00951323 /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B352D1A229FFD78E00951323 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B352D1A429FFD78F00951323 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B352D1A729FFD78F00951323 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B352D1AF29FFD80F00951323 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		B352D19F29FFD78E00951323 /* PokeApiCallForm */ = {
 			isa = PBXGroup;
 			children = (
+				B352D1AE29FFD7FE00951323 /* ViewModel */,
 				B352D1A029FFD78E00951323 /* PokeApiCallFormApp.swift */,
 				B352D1A229FFD78E00951323 /* ContentView.swift */,
 				B352D1A429FFD78F00951323 /* Assets.xcassets */,
@@ -65,6 +68,14 @@
 				B352D1A729FFD78F00951323 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B352D1AE29FFD7FE00951323 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				B352D1AF29FFD80F00951323 /* ViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B352D1A329FFD78E00951323 /* ContentView.swift in Sources */,
+				B352D1B029FFD80F00951323 /* ViewModel.swift in Sources */,
 				B352D1A129FFD78E00951323 /* PokeApiCallFormApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
