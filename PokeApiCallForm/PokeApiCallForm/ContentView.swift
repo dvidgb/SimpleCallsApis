@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  MarvelCharactersList
+//  PokeApiCallForm
 //
 //  Created by David Bueno Castro on 1/5/23.
 //
@@ -22,6 +22,5 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
-        
     }
 }

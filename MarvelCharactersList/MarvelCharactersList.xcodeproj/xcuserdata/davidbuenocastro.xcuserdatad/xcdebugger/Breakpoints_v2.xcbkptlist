@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB44188C-C8E0-4EEA-88E0-5F096409C753"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EC52516-418A-49A8-B6CF-DDBAE90F47A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelCharactersList/DataSource/ApiCall.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "filterHeroes(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37909F52-62F4-40BF-8957-EFE8795CBF1B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelCharactersList/DataSource/ApiCall.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "filterHeroes(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37909F52-62F4-40BF-8957-EFE8795CBF1B - cedb585b18831047"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static MarvelCharactersList.MarvelApi.filterHeroes(completion: (Swift.Array&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelCharactersList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidbuenocastro/Documents/Personal/Proyectos/Cursos/SimpleCallsApis/MarvelCharactersList/MarvelCharactersList/DataSource/ApiCall.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "37909F52-62F4-40BF-8957-EFE8795CBF1B - cf5982ecee0c0a25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static MarvelCharactersList.MarvelApi.filterHeroes(completion: (Swift.Array&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MarvelCharactersList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidbuenocastro/Documents/Personal/Proyectos/Cursos/SimpleCallsApis/MarvelCharactersList/MarvelCharactersList/DataSource/ApiCall.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2995DDF9-5350-46C2-B338-F71F61418D2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelCharactersList/DataSource/ApiCall.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "filterHeroes(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
